@@ -189,8 +189,14 @@
 - **命名**
   - 保持 Class 命名为全小写
   - 可以使用短划线（不要使用下划线和 驼峰 className 命名）进行分割
+- **代码组织**
+	- 推荐使用 `base.css`，`common.css`，`page.css`三层命名结构
+	- 推荐[base.css](web-guide/css/base.css)
 
 
 
+
+
+[参考推荐网站](https://github.com/icepy/Front-End-Develop-Guide)
 
 
