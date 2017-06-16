@@ -1,7 +1,12 @@
-[TOC]
-## 前端代码规范
 
-### 通用规范
+## 前端代码规范
+[通用规范](#general)
+[Javascript规范](#javascript)
+[HTML规范](#HTML)
+[CSS规范](#CSS)
+
+
+###  <a id="general"></a>通用规范
 - **缩进**：统一使用四空格缩进
 - **分号**：语句结束不可省略分号，依靠隐形分割代码可读性差，容易带来很多问题。
 - **命名**：文件和文件夹的命名
@@ -13,7 +18,7 @@
 	
  ![](https://ooo.0o0.ooo/2017/06/16/59434b07259d0.jpeg)
 
-### Javascipt规范
+### <a id="javascript"></a>Javascipt规范
 #### 要怎么做
 - 变量声明必须使用var/let/const(注意let和const的兼容性)
 - 逗号放在行尾
@@ -78,7 +83,7 @@
   	 }
 	```
 
-### HTML规范
+### <a id="HTML"></a>HTML规范
 
 - 属性上使用双引号，不要使用单引号
 - 使用这个简单地 doctype 来启用标准模式: ``` HTML <!DOCTYPE html> ```
@@ -140,7 +145,7 @@
 ```
 
 
-### CSS规范
+### <a id="CSS"></a>CSS规范
 
 - css 换行式书写，不使用一行式
 	- 推荐采用
