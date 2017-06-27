@@ -42,7 +42,7 @@
 	```
 	- 参数间的逗号**后**，加空格
 	```javascript
-    funciton foo(param1, param2, param3)
+    function foo(param1, param2, param3)
     ```
 	- 条件语句`if`、`else`、`switch`...后，加空格
 	- 开始大括号前，结束大括号**后**，加空格
@@ -56,7 +56,7 @@
 	- 等号`=` `>` `+` `||`等运算符和逻辑运算符**前后**均加空格
 	- 函数名后不加空格, 匿名函数`funciton`后不加空格
 	```javascript
-       funtion foo() {
+       function foo() {
           //do something
        }
        
